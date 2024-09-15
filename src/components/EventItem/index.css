@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.event-btn {
+  background: none;
+  border: none;
+}
+
+.event-img {
+  height: 150px;
+}
+
+.event-heading {
+  color: white;
+  font-size: 18px;
+}
+
+.event-location {
+  color: white;
+}

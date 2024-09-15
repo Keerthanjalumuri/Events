@@ -1,0 +1,24 @@
+.app-container {
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+.event-card {
+  width: 70vw;
+  height: 100vh;
+  background-color: #323f4b;
+  padding: 20px;
+}
+.event-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.heading {
+  color: white;
+  padding-left: 50px;
+}

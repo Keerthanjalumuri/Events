@@ -1,0 +1,72 @@
+/* Write your CSS here */
+.registration-card {
+  background-color: white;
+  width: 40vw;
+}
+
+.registration-info {
+  color: #64748b;
+  text-align: center;
+  font-size: 22px;
+}
+
+.yet-to-register-card {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 10px;
+}
+
+.yet-to-register-img {
+  height: 300px;
+  width: 300px;
+}
+
+.yet-to-register-text {
+  color: #475569;
+  font-size: 18px;
+}
+
+.yet-to-register-btn {
+  background-color: #0967d2;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+}
+
+.registered-card {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 10px;
+}
+
+.registered-img {
+  height: 100px;
+}
+
+.registered-heading {
+  font-size: 22px;
+}
+
+.registrations-closed-card {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 10px;
+}
+
+.registrations-closed-img {
+  height: 300px;
+  width: 300px;
+}
